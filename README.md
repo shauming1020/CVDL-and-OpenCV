@@ -11,3 +11,7 @@ https://github.com/shauming1020/CVDL-and-OpenCV/blob/master/OpenCV/HW2/OpenCvdl_
 
 ## CVDL
 ### HW1
+https://github.com/shauming1020/CVDL-and-OpenCV/blob/master/CVDL/HW1/Cvdl_Hw1_Q_20191029_V2.pdf
+
+### HW2
+https://github.com/shauming1020/CVDL-and-OpenCV/blob/master/CVDL/HW2/Cvdl_Hw2_Q_20191212_V3.pdf
