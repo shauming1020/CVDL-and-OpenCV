@@ -1,5 +1,4 @@
 # CVDL-and-OpenCV
-## Score A+
 
 # Description
 ## OpenCV
